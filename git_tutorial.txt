@@ -1,0 +1,17 @@
+Vocab 
+1. Project = Repository
+2. Working directory
+3. Staging = Control what gets committed
+4 Commit = "saving"
+
+git init - start new repo
+touch "index.html"
+git status
+git add "index.html"
+git commit -m "my Message"
+git checkout -- .  
+
+
+git clone https://...
+git remote -v		-Show the original server address
+git remote set-url origin https://github.....		Change git origin server address
